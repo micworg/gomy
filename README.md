@@ -2,6 +2,10 @@
 
 A simpole mysql rest api
 
+## Requirements:
+
+a running mysql/mariadb server
+
 ## Build:
 
 `go build gomy`
