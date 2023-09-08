@@ -1,0 +1,10 @@
+.DS_Store
+.Trashes
+*.swp
+*.lock
+._*
+*.o
+*.a
+gomy
+gomy.linux.*
+gomy.darwin.*
