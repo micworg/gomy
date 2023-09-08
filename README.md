@@ -4,7 +4,9 @@ A simpole mysql rest api
 
 ## Requirements:
 
-a running mysql/mariadb server
+- Linux or MacOS
+- golang installed
+- a running mysql/mariadb server
 
 ## Build:
 
