@@ -1,6 +1,6 @@
 # gomy
 
-A simpole mysql rest api
+A simple mysql rest api
 
 ## Requirements:
 
